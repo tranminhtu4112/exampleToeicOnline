@@ -20,6 +20,7 @@
         <module>toeic-core-dao</module>
         <module>toeic-core-service</module>
         <module>toeic-core-service-impl</module>
+        module>error</module>
     </modules>
     
     <dependencies>
